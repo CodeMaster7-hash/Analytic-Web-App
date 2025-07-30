@@ -5,7 +5,7 @@ To Run Project on your Mac Operating System:
 <br />
 1: Open the project on VS
 <br />
-Now write the following command:
+Now write the following commands:
 <br />
 npm install
 <br />
